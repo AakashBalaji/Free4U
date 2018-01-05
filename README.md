@@ -1,50 +1,13 @@
-<<<<<<< HEAD
-Google Maps Android API Sample: Adding a Map with a Marker
-==========================================================
 
-This sample goes hand in hand with a tutorial for the Google Maps Android API v2:
-[Adding a Map with a Marker](https://developers.google.com/maps/documentation/android-api/map-with-marker).
 
-Prerequisites
---------------
+What is Free4U?
 
-- Android SDK v24
-- Latest Android Build Tools
-- Android Support Repository
+Free4U is an App that pinpoints nearby freebies and alerts users to their location.
+Many young people find it difficult to make ends meet, at other times, well, who doesn’t like a freebie? Getting free stuff is something we all enjoy, but happens rarely. People have fixed budgets and fixed incomes, and sometimes don’t necessarily have the income necessary to enjoy the finer pleasures in life. This is where Free4u comes into play: an app which gives you the creature comforts we all want at no cost!
 
-Getting started
----------------
 
-This sample uses the Gradle build system.
+Credits: Nikolai Peram, Bharat SenthilKumar, Rishabh Lenka
 
-1. Download the samples by cloning this repository or downloading an archived
-  snapshot. (See the options at the top of the page.)
-1. In Android Studio, create a new project and choose the "Import non-Android Studio project" or
-  "Import Project" option.
-1. Select the `MapWithMarker` directory that you downloaded with this repository.
-1. If prompted for a gradle configuration, accept the default settings.
-  Alternatively use the "gradlew build" command to build the project directly.
-1. Add your API key to your app's `gradle.properties` file.
-  (For information on getting an API key, see the
-  [documentation](https://developers.google.com/maps/documentation/android-api/signup).)
 
-Support
--------
+This android application implements goes hand in hand with the Google Maps Android API v2: https://developers.google.com/maps/documentation/android-api/map-with-marker
 
-Stack Overflow: https://stackoverflow.com/questions/tagged/android+google-maps
-
-If you have discovered an issue with the Google Maps Android API v2, please see
-the resources here: https://developers.google.com/maps/documentation/android-api/support
-
-If you've found an error in these samples, please file an issue:
-https://github.com/googlemaps/android-samples/issues
-
-![Analytics](https://ga-beacon.appspot.com/UA-12846745-20/android-samples-apidemos/readme?pixel)
-
-License
--------
-
-Please refer to the [LICENSE](https://github.com/googlemaps/android-samples/blob/master/LICENSE) at the root of this repo.
-=======
-# Free4U
->>>>>>> 5f8beaf9779501a823e8385363bac7148227ec21
