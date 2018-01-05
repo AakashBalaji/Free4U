@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "381302337132",
+    "firebase_url": "https://free4u-68f9d.firebaseio.com",
+    "project_id": "free4u-68f9d",
+    "storage_bucket": "free4u-68f9d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:381302337132:android:5eb8134f9b9639f4",
+        "android_client_info": {
+          "package_name": "com.example.mapwithmarker"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "381302337132-mel5jblkeuclvnla0j255t23u9njili6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBSU0KaMqpHXAHLl5QDkP6lcF_zNFnUo1A"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
