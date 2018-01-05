@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 Google Maps Android API Sample: Adding a Map with a Marker
 ==========================================================
 
@@ -44,3 +45,6 @@ License
 -------
 
 Please refer to the [LICENSE](https://github.com/googlemaps/android-samples/blob/master/LICENSE) at the root of this repo.
+=======
+# Free4U
+>>>>>>> 5f8beaf9779501a823e8385363bac7148227ec21
