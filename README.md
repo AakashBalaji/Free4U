@@ -10,4 +10,4 @@ Many young people find it difficult to make ends meet, at other times, well, who
 
 This android application implements the Google Maps Android API v2: https://developers.google.com/maps/documentation/android-api/map-with-marker
 
-Credits: Nikolai Peram, Bharat SenthilKumar, Rishabh Lenka
+Credits: Aakash Balaji, Nikolai Peram, Bharat SenthilKumar, Rishabh Lenka
