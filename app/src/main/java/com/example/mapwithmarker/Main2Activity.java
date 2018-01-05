@@ -41,7 +41,7 @@ public class Main2Activity extends AppCompatActivity {
            protected Void doInBackground(Void... params) {
                Document document = null;
                try {
-                   document = Jsoup.connect("https://stackoverflow.com/questions/2835505").get();
+                   document = Jsoup.connect("http://sf.funcheap.com/free-admission-day-santa-cruz-museum-of-natural-history-36/").get();
                    words = document.text();
                    String question = document.select("#question .post-text").text();
                System.out.println("Question: " + question);
