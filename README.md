@@ -11,7 +11,7 @@ Many young people find it difficult to make ends meet, at other times, well, who
 
 Unique Features: Implements the Google Maps API, attempts to use Jsoup to parse text from given URLs, allows app users to see nearest free events nearby, and allows the user to Scan for Events that might Interest them.
 
-Current Limitations: The Jsoup parser doesn't fetch specific events from websites, but only blurbs of text.
+Current Limitations: The Jsoup parser doesn't fetch specific events from websites, but only blurbs of text. Improvements are still being made.
 
 This android application implements the Google Maps Android API v2: https://developers.google.com/maps/documentation/android-api/map-with-marker
 
