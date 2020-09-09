@@ -9,7 +9,7 @@ Many young people find it difficult to make ends meet, at other times, well, who
 
 ![capture3](https://user-images.githubusercontent.com/23457788/34597380-0faab81c-f19b-11e7-90f3-3cd67772acb9.PNG)
 
-Unique Features: Implements the Google Maps API, attempts to use Jsoup to parse text from given URLs, uses Firebase as a backend, allows app users to see nearest free events nearby, and allows the user to Scan for Events that might Interest them.
+Unique Features: Implements the Twilio API, Google Maps API, attempts to use Jsoup to parse text from given URLs, uses Firebase as a backend, allows app users to see nearest free events nearby, and allows the user to Scan for Events that might Interest them.
 
 This android application implements the Google Maps Android API v2: https://developers.google.com/maps/documentation/android-api/map-with-marker
 
